@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://priti123:priti123@pritis-cluster.jsowu.mongodb.net/tododata?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
